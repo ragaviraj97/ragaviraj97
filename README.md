@@ -29,10 +29,6 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 - MySQL
 - SQL Server
 
-### Tools & Platforms
-- Git
-- GitHu
-
 ##  Skills Demonstrated
 
 - Data Cleaning and Transformation  
