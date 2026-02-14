@@ -1,9 +1,10 @@
 
-
+https://github.com/ragaviraj97/ragaviraj97/blob/d0014f7a6532ebd81c7165f1425b3738383645a7/White%20and%20Black%20Minimalist%20Virtual%20Assistant%20LinkedIn%20Article%20Cover%20Image%20(6).png
 # Data Analytics Portfolio
 
 
 Welcome to my Data Analytics Portfolio! This repository showcases my skills, tools, and projects related to data analysis, visualization, and business insights.
+
 
 ---
 
